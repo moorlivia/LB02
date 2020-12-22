@@ -1,0 +1,10 @@
+{
+  "company": [{
+    "id": 101, "name": "MGB", "contact": "Hans Muster", "phone": "079 123 45 67", "url": "www.mgb.ch", "email": "hans.muster@mgb.ch", "profession": "Mediamatiker EFZ"
+  }, {
+    "id": 102, "name": "Aldi", "contact": "Robert Knauser", "phone": "079 765 43 21", "url": "www.aldi.ch", "email": "robert.knauser@aldi.ch", "profession": "Detailhändler EFZ"
+  }, {
+    "id": 103, "name": "Digitec", "contact": "Simona Müller", "phone": "079 987 65 43", "url": "www.digitec.ch", "email": "simona.müller@digitec.ch", "profession": "Informatiker EFZ"
+  }
+  ]
+}
